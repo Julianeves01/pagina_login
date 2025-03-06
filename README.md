@@ -5,8 +5,6 @@ Este é um projeto de página de login desenvolvido com [Next.js](https://nextjs
 ## 🚀 Início Rápido
 
 Para começar, execute o servidor de desenvolvimento:
-
-```bash
 npm run dev
 
 # 📂 |  Estrutura do Projeto
