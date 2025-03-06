@@ -9,7 +9,9 @@ npm run dev
 
 # 📂 |  Estrutura do Projeto
 app/: Contém os componentes e páginas da aplicação.
+
 styles/: Contém os arquivos CSS para estilização.
+
 public/: Contém arquivos estáticos como imagens e ícones.
 
 ## 📦 Componentes Principais
