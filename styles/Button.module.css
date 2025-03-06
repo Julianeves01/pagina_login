@@ -1,5 +1,5 @@
 .button {
-    background: linear-gradient(135deg, #f894f0, #97bcfc);
+    background: linear-gradient(135deg, #f894f0, #e46abb);
     color: white;
     border: none;
     padding: 12px;
@@ -11,5 +11,5 @@
 }
 
 .button:hover {
-    background: linear-gradient(135deg, #f894f0, #97bcfc);
+    background: linear-gradient(135deg, #f894f0, #e46abb);
 }
