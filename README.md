@@ -23,16 +23,10 @@ public/: Contém arquivos estáticos como imagens e ícones.
 ## 🎨 Estilos
 Os estilos são gerenciados utilizando módulos CSS para garantir escopo local e evitar conflitos de estilo.
 
-## 📚 Aprenda Mais
-Para saber mais sobre Next.js, consulte os seguintes recursos:
-- [Documentação do Next.js](https://nextjs.org/docs) - Aprenda sobre as funcionalidades e API do Next.js.
-- [Aprenda Next.js](https://nextjs.org/learn) - Um tutorial interativo de Next.js.
-- [Repositório do Next.js no GitHub](https://github.com/vercel/next.js) - Seu feedback e contribuições são bem-vindos!
-
 ## ☁️ Deploy na Vercel
 A maneira mais fácil de fazer o deploy da sua aplicação Next.js é utilizando a [Plataforma Vercel](https://vercel.com/) dos criadores do Next.js.
 
-Confira nossa [documentação de deploy do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
+Confira! [documentação de deploy do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
 
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
